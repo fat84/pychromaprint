@@ -1,4 +1,2 @@
 # Documentation.
 include README.rst
-# Example scripts.
-include fpcalc.py
